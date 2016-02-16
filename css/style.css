@@ -774,7 +774,7 @@ nav.shrink .container {height: 60px;}
 .nav li {margin: 15px 20px}
 .sticky-wrapper {position: absolute; top: 0; width: 100%}
 .navbar-brand img {position: relative; top: -5px; z-index: 2; max-width: 156px;}
-nav.shrink {background: rgba(0,0,0,1); border: none !important}
+nav.shrink {background: #fba42a; border: none !important}
 .transparent-header.shrink {background: rgba(0,0,0,.7); border: none !important}
 nav.navbar-height{  height: 100px !important;}
 nav.navbar-height.shrink {height: 50px !important;}
