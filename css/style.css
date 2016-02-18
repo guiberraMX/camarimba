@@ -116,6 +116,20 @@ h1.big { color:#ffffff; font-size:65px; font-weight:600; line-height:76px; margi
 h1.big span { font-weight:300;}
 h1.page-title { margin:95px auto 0; width: 100%; }
 
+
+
+#breakfast{
+    background-image: url(../images/p1.jpg) !important;
+}
+
+#lunch{
+    background-image: url(../images/p2.jpg) !important;
+}
+
+#dinner{
+    background-image: url(../images/p3.jpg) !important;
+}
+
 /* different text size */
 .text-extra-small { font-size:10px !important; line-height:15px!important;}
 .text-small { font-size:11px !important; line-height:20px!important; display: inline-block !important}
